@@ -1,4 +1,4 @@
-const { description } = require('../../package')
+const { description } = require("../../package");
 
 module.exports = {
   base: "/kitchen-sune/",
@@ -26,6 +26,10 @@ module.exports = {
       {
         text: "Front-End Foxes",
         link: "https://frontendfoxes.school",
+      },
+      {
+        text: "GitHub",
+        link: "https://github.com/frontendfoxes/kitchen-sune",
       },
     ],
     sidebar: {
