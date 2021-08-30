@@ -1,0 +1,19 @@
+{
+  "name": "kitchen-sune",
+  "version": "0.0.1",
+  "description": "Recipes for all!",
+  "main": "index.js",
+  "authors": {
+    "name": "Jen Looper",
+    "email": "jen@frontendfoxes.org"
+  },
+  "repository": "https://github.com/frontendfoxes/kitchen-sune",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
