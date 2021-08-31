@@ -4,15 +4,15 @@ I love roasted Brussels, but the fresh ones can be expensive, and they tend to d
 
 ## Ingredients
 
-One 10oz box of frozen Brussels sprouts (do NOT thaw)
-2-3 Tbsp extra-virgin olive oil (the exact amount doesn’t matter - just eyeball it)
-1/2 tsp garlic powder (or a lot more to taste)
-Salt to taste (if you like fancy sea salt this is a good place to use it)
+- One 10oz box of frozen Brussels sprouts (do NOT thaw)
+- 2-3 Tbsp extra-virgin olive oil (the exact amount doesn’t matter - just eyeball it)
+- 1/2 tsp garlic powder (or a lot more to taste)
+- Salt to taste (if you like fancy sea salt this is a good place to use it)
 
 ## Tools
 
-Mixing bowl
-Foil-lined baking sheet
+- Mixing bowl
+- Foil-lined baking sheet
 
 ## Method
 
@@ -24,7 +24,7 @@ This will also work at any temperature from 350-450, so you can cook them alongs
 
 You don’t have to line your baking dish with foil, but it makes clean-up easier.
 
-These reheat beautifully, so you can make them ahead of time. Cook them until they just start to brown, then give them another 10ish minutes in the oven to heat through and brown. (That’s what I do for Thanksgiving!)
+These reheat beautifully, so you can make them ahead of time. Cook them until they just start to brown, then give them another 10ish minutes in the oven to heat through and brown.
 
 ## Author
 
