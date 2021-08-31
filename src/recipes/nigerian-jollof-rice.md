@@ -1,6 +1,6 @@
 # Nigerian Jollof Rice
 
-I personally love Jollof Rice and I am so delighted to share the recipe with you. Nigerian Jollof Rice is a rich and incredibly tasty west African one-pot Meal. When cooking Jellof rice, building a flavor base is very importanT.
+I personally love Jollof Rice and I am so delighted to share the recipe with you. Nigerian Jollof Rice is a rich and incredibly tasty west African one-pot Meal. When cooking Jellof rice, building a flavor base is very important.
 
 ## Ingredients
 
@@ -38,4 +38,4 @@ Don’t be in haste to dump your ingredients in the pot otherwise, you will end 
 
 ## Author
 
-This recipe was contributed by Ireti Ogedengbe, via Chief Lola's Kitchen.
+This recipe was contributed by Ireti Ogedengbe.
