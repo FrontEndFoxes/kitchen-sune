@@ -37,7 +37,7 @@ module.exports = {
         {
           title: "Recipes",
           collapsable: false,
-          children: ["", "roasted-brussels-sprouts"],
+          children: ["", "roasted-brussels-sprouts", "nigerian-jollof-rice"],
         },
       ],
     },
