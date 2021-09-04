@@ -45,7 +45,7 @@ Since the relish lasts for several weeks, we often use the extras with breakfast
 
 <figcaption style="text-align: center;">
 Festive Maple Walnut Cranberry Relish <br><span style="font-size: smaller"> by Cynthia Teeters</span>
-</figaption>
+</figcaption>
 
 </figure>
 
