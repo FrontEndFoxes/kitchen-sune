@@ -44,11 +44,11 @@ Since the relish lasts for several weeks, we often use the extras with breakfast
 ![Cranberry relish in a jar](https://user-images.githubusercontent.com/13385801/132106255-8aba083c-8eec-4047-beef-f6c187e17f93.jpg)
 
 <figcaption style="text-align: center;">
-Festive Maple Walnut Cranberry Relish <br><span style="font-size: smaller"> by Cynthia Teeters</span>
+Festive Maple Walnut Cranberry Relish <br><span style="font-size: smaller">Photo by: Cynthia Teeters</span>
 </figcaption>
 
 </figure>
 
 ## Author
 
-Cheers, Cynthia Teeters
+Cheers, [Cynthia Teeters](https://github.com/cynthiateeters)
