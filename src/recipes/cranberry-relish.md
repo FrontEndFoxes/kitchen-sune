@@ -19,7 +19,7 @@ Thanks to [Chef John 👨‍🍳 at AllRecipes.com](https://www.allrecipes.com/r
 
 - measuring cups
 - tablespoon measure
-- relishpan
+- saucepan
 - cooking spoon
 - **optional**: small skillet and colander
 - serving bowl with cover or a storage container/jar
