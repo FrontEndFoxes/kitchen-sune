@@ -29,7 +29,8 @@ Thanks to [Chef John at AllRecipes.com](https://www.allrecipes.com/recipe/235618
 
 ## Author
 
-![1075587](https://user-images.githubusercontent.com/13385801/132106159-fcbfda8d-08e6-4826-ad01-2c825de0d972.jpg)
+![CRanberry relish in a jar](https://user-images.githubusercontent.com/13385801/132106255-8aba083c-8eec-4047-beef-f6c187e17f93.jpg)
+
 
 
 Cheers, Cynthia Teeters
