@@ -2,7 +2,7 @@
 
 I make this relish every fall for our Thanksgiving dinner, celebrated in the US on the 3rd Thursday in November. It's a little tart and, according to my family, so much better than the canned sauce.
 
-Since the relish lasts for several weeks, we use often the extras with breakfast toast. It can also be used as a topping on vanilla ice cream.
+Since the relish lasts for several weeks, we often use the extras with breakfast toast. It can also be used as a dessert topping on vanilla ice cream.
 
 Thanks to [Chef John at AllRecipes.com](https://www.allrecipes.com/recipe/235618/maple-walnut-cranberry-sauce/) for the inspiration. 😍
 
@@ -28,5 +28,8 @@ Thanks to [Chef John at AllRecipes.com](https://www.allrecipes.com/recipe/235618
 7. Refrigerate until needed. For best results, give the relish a few days before serving.
 
 ## Author
+
+![1075587](https://user-images.githubusercontent.com/13385801/132106159-fcbfda8d-08e6-4826-ad01-2c825de0d972.jpg)
+
 
 Cheers, Cynthia Teeters
