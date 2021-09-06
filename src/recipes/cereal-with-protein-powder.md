@@ -1,4 +1,4 @@
-# Cereal with protein powder mixed in........ 
+# Cereal with protein powder mixed in
 
 what I enjoy eating mostly every day
 

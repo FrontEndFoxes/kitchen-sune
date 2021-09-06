@@ -2,14 +2,15 @@
 
 I tried the usual pandemic recipes with varying success.
 
-Sourdough bread (total failure, like a doorstop)\
-Carbonara noodles (big success)\
-New York Times fancy Tomato sandwich (Best thing I've discovered in years)\
-https://cooking.nytimes.com/recipes/1017666-tomato-sandwiches \
-Elderberry syrup (never used, still in fridge)\
-David Chang's Momofuku Bossam - I did something wrong, like eating a block of salt.
+- Sourdough bread (total failure, like a doorstop)
+- Carbonara noodles (big success)
+- New York Times fancy Tomato sandwich (Best thing I've discovered in years)
+https://cooking.nytimes.com/recipes/1017666-tomato-sandwiches
+- Elderberry syrup (never used, still in fridge)
+- David Chang's Momofuku Bossam - I did something wrong, like eating a block of salt.
 
 These lazy chocolate chip cookies became a Friday night (then Monday, Wednesday, Saturday) staple.
+
 They helped my family find a little joy in the last year (or so).
 
 ## Ingredients
