@@ -52,6 +52,7 @@ module.exports = {
             "nigerian-unripe-plantain-porridge",
             "strawberry-mush",
             "jalebi-baby",
+            "dalgona-coffee"
           ],
         },
       ],
