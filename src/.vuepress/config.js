@@ -51,6 +51,7 @@ module.exports = {
             "sweet-potato-lentil-curry",
             "nigerian-unripe-plantain-porridge",
             "strawberry-mush",
+            "chocolate-chip-cookies"
           ],
         },
       ],
