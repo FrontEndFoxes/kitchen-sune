@@ -32,4 +32,4 @@ For a quicker option, add the coffee, hot water and sugar in a small mixer-grind
 
 ## Author
 
-This recipe was contributed by a fan of thsi recipe.
+This recipe was contributed by a fan of this recipe.
