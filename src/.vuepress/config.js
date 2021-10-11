@@ -54,7 +54,8 @@ module.exports = {
             "jalebi-baby",
             "dalgona-coffee",
             "maple-syrup-candy",
-            "chocolate-cupcakes-gluten-free"
+            "chocolate-cupcakes-gluten-free",
+            "chocolate-peanutbutter-pie"
           ],
         },
       ],
