@@ -1,4 +1,4 @@
-#  Chocolate Cupcakes, a Gluten Free Recipe!
+#  Gluten Free Chocolate Cupcakes
 
 If you're avoiding gluten, (could be because of a diet, or just because you have Celiac's Disease) we can all agree that it's hard to find good tasting gluten free recipes, i know, i know! But trust me when i say this recipe has nothing to envy from those with wheat flour (it personally tastes better). So let's dive right into it. 
 
