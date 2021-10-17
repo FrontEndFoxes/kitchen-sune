@@ -56,9 +56,7 @@ module.exports = {
             "maple-syrup-candy",
             "gluten-free-chocolate-cupcakes",
             "chocolate-peanutbutter-pie",
-            "nigerian-bean-pudding-moin-moin",
-            "healthy-granola",
-            "pb-banana-smoothie"
+            "nigerian-bean-pudding-moin-moin"
           ],
         },
       ],
