@@ -58,7 +58,9 @@ module.exports = {
 						'chocolate-peanutbutter-pie',
 						'nigerian-bean-pudding-moin-moin',
 						'healthy-granola',
-						'pb-banana-milkshake'
+						'pb-banana-milkshake',
+						'nigerian-oha-soup'
+						
 					],
 				},
 			],
