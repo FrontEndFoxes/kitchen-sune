@@ -19,13 +19,14 @@ They helped my family find a little joy in the last year (or so).
 
 ## Tools
 
-Oven or toaster oven\
-Cookie Sheet\
-Parchment Paper (optional)
+- Oven or toaster oven
+- Cookie Sheet
+- Parchment Paper (optional)
 
 ## Method
 
 Preheat oven to 350 and place dough squares on parchment paper lined cookie sheet. 
+
 Cook for 13-14 min.
 
 ## Tips

@@ -3,7 +3,7 @@
 I am sure you have heard the famous TikTok song "Jalebi Baby" by Jason 
 Derulo and Tesher.
 
-Jalebi is a prominent sweet from the Indian subcontinent that is shared with family and friends on special occassions
+Jalebi is a prominent sweet from the Indian subcontinent that is shared with family and friends on special occasions
 
 ## Ingredients
 

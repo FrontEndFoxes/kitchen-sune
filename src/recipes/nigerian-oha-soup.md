@@ -1,5 +1,5 @@
 # Oha soup
-Oha or Ora is mostly known in south eastern part of a nigeria, A tradtional soup eaten in most igbo homes. The main ingredient is the leaves that makes it unique.
+Oha or Ora is mostly known in south eastern part of a Nigeria, A traditional soup eaten in most igbo homes. The main ingredient is the leaves that makes it unique.
 
 ## Ingredients
 ```
@@ -22,11 +22,10 @@ Oha or Ora is mostly known in south eastern part of a nigeria, A tradtional soup
 - pressure cooker
 
 ## Method
-Preparation:
-```
-1.Boil your meat first.
 
-2.Then put the already boiled meat and in a pot also put your stockfish,driedfish, smokedfish, add onions, then put a little water, cover and let it  simmer for 10 minutes
+1. Boil your meat first.
+
+2. Then put the already boiled meat and in a pot also put your stockfish,driedfish, smokedfish, add onions, then put a little water, cover and let it  simmer for 10 minutes
 
 3. Boil your cocoyam for like 15mins, i like using pressure cooker it saves time.
 
@@ -41,8 +40,6 @@ Preparation:
 8. Let it cook for one minute, then turn off the cooker.
 
 9. Your delicious Oha soup is ready.
-
-```
 
 ## Tips
 Oha soup is best serve Semovita, Eba, Pounded yam, Fufu, wheat,  etc

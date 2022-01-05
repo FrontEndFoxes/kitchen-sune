@@ -7,11 +7,11 @@ Bean Pudding is a traditionally steamed western Nigeria delicacy which is made f
 
 - 2-3 cups of brown beans or black-eyed beans
 - 3 Red Bell Pepper (to add colour)
-- 4 chilli pepper
+- 4 chili pepper
 - 2 medium onions
 - 2 cooking spoons vegetable oil
 - Salt (to taste)
-- 1 tablespoon ginded crayfish
+- 1 tablespoon ground crayfish
 - 2 stock cubes
 - 6 Hard-boiled Eggs
 - 1 Mackerel or Salmon Fish
@@ -23,7 +23,7 @@ Bean Pudding is a traditionally steamed western Nigeria delicacy which is made f
 - Knife
 - Cooking spoon
 - Blender
-- Thaumatococcus daniellii or container 
+- Thaumatococcus daniellii or Container 
 
 ## Method
 
@@ -33,7 +33,7 @@ Wash the pepper and onions, add to the clean beans and blend with blender to get
 
 Pour the beans mixture in a bowl, add sliced onions, salt, boiled fish without the bone, seasoning cubes, vegetable oil, appropriate warm water and stir together. 
 
-Place a wide cooking pot on medium heat, line the base of the pot with sticks from the Thaumatococcus daniellii, add small quatity of water and heat for 2 minutes.
+Place a wide cooking pot on medium heat, line the base of the pot with sticks from the Thaumatococcus daniellii, add small quantity of water and heat for 2 minutes.
 
 Pour the mixture one after the other into a folded Thaumatococcus daniellii and place the boiled egg inside. 
 

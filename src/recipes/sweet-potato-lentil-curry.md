@@ -10,9 +10,9 @@ This curry is one of my absolute favorites for the cold season! It serves 3 peop
 * 2 medium-sized onions
 * 2 garlic cloves
 * 1 tablespoon olive oil
-* 500 mililiters of coconut milk
-* 250 mililiters of vegetable broth
-* 2 tablespoons tomatoe puree (concentrated)
+* 500 milliliters of coconut milk
+* 250 milliliters of vegetable broth
+* 2 tablespoons tomato puree (concentrated)
 * 2 tablespoons of curry powder
 * 2 tablespoons of turmeric powder
 * 1 tablespoon of garam masala spice mix 
@@ -22,9 +22,9 @@ This curry is one of my absolute favorites for the cold season! It serves 3 peop
 
 * cutting board
 * knives
-* potatoe peeler (or a peeling knive)
+* potato peeler (or a peeling knife)
 * a big pot
-* a laple
+* a ladle
 
 ## Method
 
@@ -34,7 +34,7 @@ This curry is one of my absolute favorites for the cold season! It serves 3 peop
 4. Cut the onions into small pieces
 5. Heat the olive oil in a large pot on medium heat and sauté the onions
 6. Add the garlic and fry along briefly, then add the sweet potatoes and the bell pepper
-7. Add the tomatoe puree and the spices and fry along briefly
+7. Add the tomato puree and the spices and fry along briefly
 8. Add the lentils, coconut milk and vegetable broth and stir well
 9. Let it simmer for about 25 minutes  
 
