@@ -9,9 +9,17 @@ This recipe book is a great way to practice your GitHub skills.
 3. Download Visual Studio Code, a free code editor: https://aka.ms/vscode
 4. Once your computer is configured for Git, which might need to be installed separately, visit this GitHub repo while logged in and click 'fork' in the upper right hand corner. A copy of the repo will appear in your account.
 5. Add a recipe by creating a new file in `/src/recipes/`. Give it a descriptive name like 'classic-chocolate-chip-cookies.md`. This is a markdown file and you will edit it to add a recipe.
-6. Follow this format for your recipe:
+6. Follow this format for your recipe, including appropriate tags:
 
 ```
+
+---
+tags: ["tag1", "tag2"]
+title: "title of recipe"
+---
+
+<TagLinks />
+
 # Title of recipe
 
 any notes

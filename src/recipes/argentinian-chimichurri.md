@@ -1,3 +1,10 @@
+---
+tags: ["Argentina", "condiment"]
+title: "Argentinian Chimichurri"
+---
+
+<TagLinks />
+
 # Argentinian Chimichurri
 
 One of the indispensable sides of traditional grilling in Argentina is a good chimichurri sauce. Although there are many variations on how to create one, this recipe focuses on the basics that everyone seems to agree with. Chimichurri goes excellent with steak, but you can also have it with bread, salad, potatoes, and anything else that can benefit from its potent flavor.

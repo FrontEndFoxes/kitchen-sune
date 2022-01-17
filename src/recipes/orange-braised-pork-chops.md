@@ -1,3 +1,10 @@
+---
+tags: ["dinner"]
+title: "Orange Braised Pork Chops"
+---
+
+<TagLinks />
+
 # Orange Braised Pork Chops
 
 My grandmother would often make these when we came to visit. She shared this recipe with me when I got married so that my husband and I could learn to make it together.

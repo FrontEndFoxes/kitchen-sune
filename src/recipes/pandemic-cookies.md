@@ -1,3 +1,10 @@
+---
+tags: ["dessert"]
+title: "Pandemic Cookies"
+---
+
+<TagLinks />
+
 # Pandemic cookies
 
 I tried the usual pandemic recipes with varying success.

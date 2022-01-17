@@ -1,3 +1,10 @@
+---
+tags: ["vegetable", "dinner"]
+title: "Roasted Brussels Sprouts"
+---
+
+<TagLinks />
+
 # Roasted Brussels Sprouts
 
 I love roasted Brussels, but the fresh ones can be expensive, and they tend to dry out when you roast them. The secret? Use frozen Brussels sprouts. The ice crystals trapped in the leaves during the freezing process will lightly steam them from the inside, so they stay moist while the outside takes on that delicious roasty crust.

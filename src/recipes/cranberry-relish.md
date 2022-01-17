@@ -1,3 +1,10 @@
+---
+tags: ["condiment"]
+title: "Maple Walnut Cranberry Relish"
+---
+
+<TagLinks />
+
 # Maple Walnut Cranberry Relish
 
 I make this relish every fall for our Thanksgiving dinner, celebrated in the US on the 3rd Thursday in November. It's a little sweet and little tart and, according to my family, so much better than the canned stuff.

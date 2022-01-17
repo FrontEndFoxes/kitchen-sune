@@ -1,5 +1,13 @@
+---
+tags: ["soup", "Nigeria"]
+title: "Oha Soup"
+---
+
+<TagLinks />
+
 # Oha soup
-Oha or Ora is mostly known in south eastern part of a Nigeria, A traditional soup eaten in most igbo homes. The main ingredient is the leaves that makes it unique.
+
+Oha or Ora is mostly known in south eastern part of a Nigeria, A traditional soup eaten in most Igbo homes. The main ingredient is the leaves that makes it unique.
 
 ## Ingredients
 ```

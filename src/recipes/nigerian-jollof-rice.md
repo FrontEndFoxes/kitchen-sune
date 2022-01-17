@@ -1,3 +1,10 @@
+---
+tags: ["dinner", "Nigeria"]
+title: "Nigerian Jollof Rice"
+---
+
+<TagLinks />
+
 # Nigerian Jollof Rice
 
 I personally love Jollof Rice and I am so delighted to share the recipe with you. Nigerian Jollof Rice is a rich and incredibly tasty west African one-pot Meal. When cooking Jellof rice, building a flavor base is very important.

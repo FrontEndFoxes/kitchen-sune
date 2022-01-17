@@ -1,3 +1,10 @@
+---
+tags: ["snack", "Nigeria"]
+title: "Nigerian Puff Puff"
+---
+
+<TagLinks />
+
 # Nigerian Puff Puff
 
 Nigerian Puff puff is a delicious deep-fried  street snack that is sweet, spongy, and a total crowd-pleaser. It’s similar to buns but lighter and smooth. It is a simple and easy snacks to prepare.

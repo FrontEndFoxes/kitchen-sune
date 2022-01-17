@@ -1,6 +1,13 @@
+---
+tags: ["dessert"]
+title: "Strawberry Mush"
+---
+
+<TagLinks />
+
 # Strawberry Mush
 
-When I was a child, my mom would make this simple desert for me.
+When I was a child, my Mom would make this simple desert for me.
 
 As an adult, I still enjoy this treat very much.
 
@@ -13,9 +20,9 @@ As an adult, I still enjoy this treat very much.
 ## Method
 
 - Place the strawberries in a decently sized bowl
-- Mash the strawberries with a Potato Masher
-- Mix in milk gradually, stiring occasionally
-- Gradually add in sugar while stiring the mixture
+- Mash the strawberries with a potato masher
+- Mix in milk gradually, stirring occasionally
+- Gradually add in sugar while stirring the mixture
 
 ## Tips
 

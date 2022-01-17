@@ -1,6 +1,14 @@
+---
+tags: ["dinner", "soup", "Nigeria"]
+title: "Nigerian Unripe Plantain Porridge"
+---
+
+<TagLinks />
+
 # Nigerian Unripe Plantain Porridge
 
 Unripe plantain porridge is a delicious one-pot plantain recipe, very easy to make and are known to be rich in iron.
+
 You can also use the combination of unripe and ripe plantain to make the porridge and would still yield an amazing result.
 
 

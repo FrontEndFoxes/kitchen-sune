@@ -1,3 +1,10 @@
+---
+tags: ["dinner"]
+title: "Sweet Potato and Red Lentil Curry"
+---
+
+<TagLinks />
+
 # Sweet Potato and Red Lentil Curry 
 
 This curry is one of my absolute favorites for the cold season! It serves 3 people.

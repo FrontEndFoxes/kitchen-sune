@@ -1,4 +1,11 @@
-# Cereal with protein powder mixed in
+---
+tags: ["breakfast"]
+title: "Cereal with Protein Powder"
+---
+
+<TagLinks />
+
+# Cereal with Protein Powder
 
 what I enjoy eating mostly every day
 

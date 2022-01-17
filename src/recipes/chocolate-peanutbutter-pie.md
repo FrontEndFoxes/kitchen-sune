@@ -1,3 +1,10 @@
+---
+tags: ["dessert"]
+title: "Chocolate Peanut Butter Pie"
+---
+
+<TagLinks />
+
 # Chocolate Peanut Butter Pie
 
 This is a great alternative to traditional fruit pies. It is luscious, silky smooth, with a great contrast of crunch from the crust. Bonus, there's no "baking" involved!

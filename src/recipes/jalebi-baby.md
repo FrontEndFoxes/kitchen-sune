@@ -1,7 +1,13 @@
+---
+tags: ["India", "dessert"]
+title: "Jalebi Baby"
+---
+
+<TagLinks />
+
 # Jalebi Baby
 
-I am sure you have heard the famous TikTok song "Jalebi Baby" by Jason 
-Derulo and Tesher.
+I am sure you have heard the famous TikTok song "Jalebi Baby" by Jason Derulo and Tesher.
 
 Jalebi is a prominent sweet from the Indian subcontinent that is shared with family and friends on special occasions
 

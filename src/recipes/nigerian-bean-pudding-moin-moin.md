@@ -1,3 +1,10 @@
+---
+tags: ["dinner", "Nigeria"]
+title: "Nigerian Bean Pudding Moin-Moin"
+---
+
+<TagLinks />
+
 # Nigerian Bean Pudding Moin-Moin
 
 Bean Pudding is a traditionally steamed western Nigeria delicacy which is made from a mixture of washed and peeled black-eyed peas or brown beans. It is rich in protein and fibre.

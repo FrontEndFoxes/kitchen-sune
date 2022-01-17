@@ -1,3 +1,10 @@
+---
+tags: ["beverage", "Korea"]
+title: "Dalgona Coffee"
+---
+
+<TagLinks />
+
 # Dalgona Coffee
 
 Dalgona Coffee is from South Korea and became one of the most trended recipes during the pandemic time. The coffee mixture is whipped or beaten to an extent of getting a foamy, smooth, creamy consistency much like whipped cream. Yes this coffee cream is a bomb full of flavors of coffee and only coffee.

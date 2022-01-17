@@ -24,6 +24,10 @@ module.exports = {
 				link: '/recipes/',
 			},
 			{
+				text: 'Index',
+				link: '/tags/',
+			},
+			{
 				text: 'Front-End Foxes',
 				link: 'https://frontendfoxes.school',
 			},

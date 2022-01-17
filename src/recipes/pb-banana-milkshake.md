@@ -1,3 +1,10 @@
+---
+tags: ["snack"]
+title: "Peanut Butter & Banana Milkshake"
+---
+
+<TagLinks />
+
 # Peanut Butter & Banana Milkshake
 
 The combination of peanut butter and banana is beautiful, especially in milkshake form. It's really easy to make and very yummy too!

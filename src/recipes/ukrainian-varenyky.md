@@ -1,3 +1,10 @@
+---
+tags: ["dinner", "Ukraine"]
+title: "Ukrainian Verenyky"
+---
+
+<TagLinks />
+
 # Ukrainian Varenyky
 
 Varenyky are traditional Ukrainian dumplings with a variety of fillings from sweet like cherries to sour like Sauerkraut. Each Ukrainian host has an own recipe of varenyky, but the cooking method stays the same: wrapping unleavened dough around the filling. Even Nikolai Gogol wrote about the dish, carrying a useful tip throughout the centuries: don’t forget to serve sour cream and dip varenyky in it before eating.

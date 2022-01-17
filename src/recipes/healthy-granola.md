@@ -1,3 +1,10 @@
+---
+tags: ["breakfast"]
+title: "Healthy Granola"
+---
+
+<TagLinks />
+
 # Healthy Granola
 
 This is a favorite recipe in my home. My kids and I love to eat it with milk or over yogurt. It's perfectly sweet and full of healthy stuff!
