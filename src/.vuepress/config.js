@@ -64,6 +64,7 @@ module.exports = {
 						'healthy-granola',
 						'pb-banana-milkshake',
 						'nigerian-oha-soup'
+						'nigeria-okro-soup'
 						
 					],
 				},
