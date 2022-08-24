@@ -1,11 +1,17 @@
-# Okro soup
-Okro is popularly known in south-west part of Nigeria as obe ila by the yoruba's while the igbo's call it okra.This is an edible green seed pods of the okro flowering plant. The pod is greenish and slippery and it is them most important ingredient.
+---
+tags: ["dinner"]
+title: "Okro Soup"
+---
+
+<TagLinks /> 
+
+Okro is popularly known in the south-west part of Nigeria as obe ila by the yorubas while the igbos call it okra. This is an edible green seed pod of the okro flowering plant. The pod is greenish and slippery and it is the most important ingredient.
 
 
 ##  Ingredients
 ```
-- A bowl of okro pod
-- Fishes(dry fish, cray fish, fresh fish) 
+- A bowl of okro pods
+- Fishes (dry fish, crayfish, fresh fish) 
 - 2 snails
 - Cow skin (ponmo)
 - Red pepper (rodo)
@@ -24,31 +30,30 @@ Okro is popularly known in south-west part of Nigeria as obe ila by the yoruba's
 - Blender
 
 ## Method
-1. Grate your okro, into a good-looking dice form.
-2. Blend your pepper, and put in a neat bowl.
-3. Blend your eru, and put in a neat bowl.
-4. Dice you ponmo  and snail with knife.
-5. Rinse your fishes, and salting it in a bowl, let it marinate for about 2mins
+1. Grate your okro into a good-looking dice form.
+2. Blend your pepper and put in a neat bowl.
+3. Blend your eru and put in a neat bowl.
+4. Dice you ponmo and snail with a knife.
+5. Rinse your fish and salt them it in a bowl and let it marinate for about 2 mins
 3. Place your cooking pot on an electric cooker with mid heat, ensure the pot is dry.
-4. Pour your palm oil into the pot, and heat it up for 2mins
-5. Pour your pepper, heat up for 2mins and stir.
-6. Add your eru and stir properly. you will percieve and aroma.
-7. Add you Ponmo, snail, fresh fish, dry fish and cry fish. Heat them up for 5mins
-9. Always remember iru is preserve with salt, and we already salting the fishes, add little salt or no salt, also add maggi(recommended Know chicken).
-10. Then add the diced okro, and stir properly, heat it up for 4mins
+4. Pour your palm oil into the pot, and heat it up for 2 mins
+5. Pour your pepper and heat up for 2mins and stir.
+6. Add your eru and stir properly. You will percieve an aroma.
+7. Add you Ponmo, snail, fresh fish, dry fish and crayfish. Heat them up for 5 mins
+9. Always remember iru is preserved with salt, and we already salting the fishes, add little salt or no salt, also add maggi (I recommended Know chicken).
+10. Then add the diced okro and stir properly, heat it up for 4 mins
 11. Your okro soup is done.
 
 
 ## Tip
 
-Serve okro soup with any of this starch food called swallow Eba, Fufu, Amala, Iyan(pounded yam), semo, pupuru e.t.c
+Serve okro soup with any of this starch food called swallow Eba, Fufu, Amala, Iyan(pounded yam), semo, pupuru etc.
 
-Drink
-Best serve with palmwine and water.
+It's best served with palmwine and water.
 
-This delicacy is best eaten in the evening, to aid easy digestion.
+This delicacy is best eaten in the evening, to aid in digestion.
 
 ## Author
 
-This recipe was contributed by [Ajayi Bolarinwa], A wonderful lady, passion about growth and health.
-(https://github.com/OmoBolarinwaye)
+This recipe was contributed by [Ajayi Bolarinwa](https://github.com/OmoBolarinwaye), A wonderful lady, passionate about growth and health.
+

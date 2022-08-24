@@ -63,7 +63,7 @@ module.exports = {
 						'nigerian-bean-pudding-moin-moin',
 						'healthy-granola',
 						'pb-banana-milkshake',
-						'nigerian-oha-soup'
+						'nigerian-oha-soup',
 						'nigeria-okro-soup'
 						
 					],
