@@ -6,7 +6,7 @@ title: "Holdacska"
 
 <TagLinks />
 
-# Holdacska_Little Moon Biscuits
+# Holdacska Little Moon Biscuits
 
 This recipe is my son's and my father's favourite and an essential part of the Christmas menu in our family. The recipe is from my grandmother and you can never bake enough of this.  
 
@@ -49,4 +49,4 @@ Use a hint of flour under the dough when rolling it out.
 
 ## Author
 
-My grandmother. 
+Ágnes Kuti-Palásthy 
