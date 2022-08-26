@@ -43,7 +43,7 @@ module.exports = {
 					collapsable: false,
 					children: [
 						'',
-						'Holdacska_Little Moon Biscuit',
+						'holdacska-little-moon-biscuit',
 						'nigerian-puff-puff',
 						'roasted-brussels-sprouts',
 						'argentinian-chimichurri',
