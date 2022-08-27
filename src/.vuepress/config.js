@@ -66,6 +66,7 @@ module.exports = {
 						'nigerian-oha-soup',
 						'nigeria-okro-soup',
 						'brazilian-chicken-strogonoff',
+						'hungarian-nokedli-dumplings'
 						
 					],
 				},
