@@ -68,7 +68,7 @@ module.exports = {
 						'nigeria-okro-soup',
 						'brazilian-chicken-strogonoff',
 						'hungarian-nokedli-dumplings',
-						'holdacska-little-moon-biscuits'
+						'holdacska-little-moon-biscuit'
 						
 					],
 				},
