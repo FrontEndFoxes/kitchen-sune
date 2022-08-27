@@ -11,19 +11,19 @@ This recipe is my son's and my father's favourite and an essential part of the C
 
 ## Ingredients
 
-28 dekagram of butter (0.62 lbs)
-42 dekagram of flour (0.93 lbs)
-14 dekagram of finely ground walnuts (0.3 lbs)
-14 dekagram of powdered sugar (0.3 lbs)
+- 28 dekagram of butter (0.62 lbs)
+- 42 dekagram of flour (0.93 lbs)
+- 14 dekagram of finely ground walnuts (0.3 lbs)
+- 14 dekagram of powdered sugar (0.3 lbs)
 
-powdered sugar and vanilla for sprinkles
+- powdered sugar and vanilla for sprinkles
 
 ## Tools
 
-oven
-table
-bowl
-baking tray
+- oven
+- table
+- bowl
+- baking tray
 
 ## Method
 
