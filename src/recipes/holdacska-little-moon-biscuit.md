@@ -1,6 +1,6 @@
 
 ---
-tags: ["dessert", "biscuit"]
+tags: ["dessert"]
 title: "Holdacska"
 ---
 
@@ -17,9 +17,7 @@ This recipe is my son's and my father's favourite and an essential part of the C
 14 dekagram of finely ground walnuts (0.3 lbs)
 14 dekagram of powdered sugar (0.3 lbs)
 
-powdered sugar and vanilla for sprinkle
-
-
+powdered sugar and vanilla for sprinkles
 
 ## Tools
 
@@ -31,15 +29,16 @@ baking tray
 ## Method
 
 After mixing the dry ingredients knead it with the cold butter 
-(adding in small pieces). If it is done put it in the refrigerator
-for half an our or more (can stay during the whole night).
-Take out as much as you can work with (so you can prevent the remaining 
-dough of warming up), and roll out the dough (3-5mm thick). Bake it until 
-it gets some light colour (180 celsius 8-9 minutes). 
-Prepare a box or a small bowl and fill it with a cup of powdered sugar and mix it with the
-vanilla extract as you like it. When you take out the hot biscuits from the oven 
-roll them in the sugar while they are warm so they can drink in the 
-essence of vanilla. 
+(adding in small pieces). If it is done put it in the refrigerator for half an our or more (can stay during the whole night).
+
+Take out as much as you can work with (so you can prevent the remaining dough of warming up), and roll out the dough (3-5mm thick). 
+
+Bake it until it gets some light colour (180 celsius 8-9 minutes). 
+
+Prepare a box or a small bowl and fill it with a cup of powdered sugar and mix it with the vanilla extract as you like it. 
+
+When you take out the hot biscuits from the oven 
+roll them in the sugar while they are warm so they can drink in the essence of vanilla. 
 
 
 ## Tips
