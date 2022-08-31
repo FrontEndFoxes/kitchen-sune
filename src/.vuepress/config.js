@@ -69,7 +69,8 @@ module.exports = {
 						'brazilian-chicken-strogonoff',
 						'hungarian-nokedli-dumplings',
 						'holdacska-little-moon-biscuit',
-						'nutella-cookies'
+						'nutella-cookies',
+						'peanut-butter-overnight-oats'
 						
 					],
 				},
