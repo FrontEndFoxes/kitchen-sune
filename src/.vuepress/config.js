@@ -42,8 +42,6 @@ module.exports = {
 					title: 'Recipes',
 					collapsable: false,
 					children: [
-						'',
-						'holdacska-little-moon-biscuit',
 						'nigerian-puff-puff',
 						'roasted-brussels-sprouts',
 						'argentinian-chimichurri',
