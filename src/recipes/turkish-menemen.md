@@ -11,26 +11,26 @@ I love eating menemen at the breakfast. It is easy to cook and so yummy. You can
 
 ## Ingredients 
 
--3 eggs
+- 3 eggs
 
--2 tomatoes
+- 2 tomatoes
 
--Oil
+- Oil
 
--1 Onion
+- 1 Onion
 
--2 Green Pepper
+- 2 Green Pepper
 
--A cup of kashar cheese 
+- A cup of kashar cheese 
 
--Salt
+- Salt
 
 
 ## Tools
 
--pan
+- pan
 
--grater for cheese and tomatoes
+- grater for cheese and tomatoes
 
 ## Method
 
