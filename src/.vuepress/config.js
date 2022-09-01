@@ -68,7 +68,8 @@ module.exports = {
 						'hungarian-nokedli-dumplings',
 						'holdacska-little-moon-biscuit',
 						'nutella-cookies',
-						'peanut-butter-overnight-oats'
+						'peanut-butter-overnight-oats',
+						'turkish-menemen'
 						
 					],
 				},
