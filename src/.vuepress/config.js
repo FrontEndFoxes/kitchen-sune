@@ -69,8 +69,9 @@ module.exports = {
 						'holdacska-little-moon-biscuit',
 						'nutella-cookies',
 						'peanut-butter-overnight-oats',
-						'baked-banana-oatmeal'
-						
+						'baked-banana-oatmeal',
+						'colombian-pan-de-bono',
+						'turkish-menemen'
 					],
 				},
 			],
