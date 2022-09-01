@@ -42,7 +42,7 @@ Then, add tomatoes and salt.
 
 Stir for a bit until the tomatoes are nice and hot.
 
-Add the scrambled eggs and let them cook for 3 minute or so. 
+Add the scrambled eggs and let them cook. 
 
 Then mix them up. After a couple of minutes, add kashar cheese and close the cover of pan. 
 
