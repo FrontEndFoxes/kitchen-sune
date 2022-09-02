@@ -71,7 +71,8 @@ module.exports = {
 						'peanut-butter-overnight-oats',
 						'colombian-pan-de-bono',
 						'turkish-menemen',
-						'Coconut-Fish'
+            'coconut-fish',
+            'codfish-pastel'
 
 					],
 				},
