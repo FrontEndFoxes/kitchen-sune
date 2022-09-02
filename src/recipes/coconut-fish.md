@@ -8,19 +8,19 @@ title: "Coconut Fish"
 This is a special kind of fish, which is originated from the coastal region of Kenya. It is easy to make and is best served with hot rice or hot ugali
 
 ## Ingredients
--2 cups of coconut milk
--1 whole deep fried Tilapia fish
--3 red tomatoes
--2 onions
--2 bunches of dhania
--2 tablespoons of blackpepper
--1 tablespoon of salt
--2 tablespoons of cooking oil
+- 2 cups of coconut milk
+- 1 whole deep fried Tilapia fish
+- 3 red tomatoes
+- 2 onions
+- 2 bunches of dhania
+- 2 tablespoons of blackpepper
+- 1 tablespoon of salt
+- 2 tablespoons of cooking oil
 
 
 ## Tools
--A non-stick pan
--A chopping board
+- A non-stick pan
+- A chopping board
 
 
 ## Method
