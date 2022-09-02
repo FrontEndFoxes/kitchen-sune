@@ -70,8 +70,9 @@ module.exports = {
 						'nutella-cookies',
 						'peanut-butter-overnight-oats',
 						'colombian-pan-de-bono',
-						'turkish-menemen'
-
+						'turkish-menemen',
+            			'codfish-pastel'
+            
 					],
 				},
 			],
