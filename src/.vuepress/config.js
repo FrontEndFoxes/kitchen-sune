@@ -72,7 +72,8 @@ module.exports = {
 						'colombian-pan-de-bono',
 						'turkish-menemen',
             'coconut-fish',
-            'codfish-pastel'
+            'codfish-pastel',
+			'beef-wet-fry'
 
 					],
 				},
