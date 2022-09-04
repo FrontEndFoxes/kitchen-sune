@@ -71,10 +71,11 @@ module.exports = {
 						'peanut-butter-overnight-oats',
 						'colombian-pan-de-bono',
 						'turkish-menemen',
-            			'coconut-fish',
-            			'codfish-pastel',
+            'coconut-fish',
+            'codfish-pastel',
 						'beef-wet-fry',
-						'chocolate-salami'
+						'chocolate-salami',
+            'turkish-kofte'
 
 					],
 				},
