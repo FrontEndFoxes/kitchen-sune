@@ -10,15 +10,15 @@ This is a very easy recipe that can be done without major tools and does not nee
 
 ## Ingredients
 
-1 egg
+- 1 egg
 
-100g chocolate / cocoa powder - choose according to preference of sweetness
+- 100g chocolate / cocoa powder - choose according to preference of sweetness
 
-100g sugar - i prefer using sugar powder but the original recipe uses normal plain sugar 
+- 100g sugar - i prefer using sugar powder but the original recipe uses normal plain sugar 
 
-100g butter at room temperature 
+- 100g butter at room temperature 
 
-200g Maria biscuits 
+- 200g Maria biscuits 
 
 ## Tools
 
@@ -32,14 +32,20 @@ Aluminium foil
 
 ## Method
 
-Start by roughly smashing the biscuits in a proper bowl/bag. The biscuits should be smashed into little pieces but not so little they turn into flour/powder consistency.
+Start by roughly smashing the biscuits in a proper bowl/bag. 
+
+The biscuits should be smashed into little pieces but not so little they turn into flour/powder consistency.
+
 In a big bowl mix the butter with the sugar, the egg and finally the chocolate/cocoa.
+
 Add the smashed biscuits into the mix in the big bowl and mix it all together. 
+
 At this point you will wrap the mix with aluminium foil: 
   - Cut the aluminium foil into a rectangle shape
   - Put the mix throughout the center of the rectangle-shaped aluminium foil - remember the final shape will resemble a salami/cylinder
   - Wrap, press and shape the mix by bringing the top and bottom of the aluminium foil together
   - Close the end bits of the salami by smushing the spare aluminium foil
+
 Leave the chocolate salami in the fridge for 1h before it is served.
 
 ## Tips
@@ -49,4 +55,5 @@ It is important to leave the chocolate salami for a while in cold temperature bu
 Do not remove the aluminium foil before slicing or you will probably be thinking "what the hell is this?"! The proper way to do it is slicing the chocolate salami when you take it out from the cold and serve/present the slices as they are. When someone chooses to eat 1 slice, that is when the aluminium foil should be removed before eating the slice.  
 
 ## Author
+
 Joana Ramalho
