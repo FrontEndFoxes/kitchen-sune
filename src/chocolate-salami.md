@@ -38,6 +38,7 @@ Leave the chocolate salami in the fridge for 1h before it is served.
 ## Tips
 
 It is important to leave the chocolate salami for a while in cold temperature but the exact time is not really important. Needs to be enough time so it can turn into a harder consistency as this will prevent it from falling apart when slicing. Inside tip: if i am on a rush i leave it for whatever little time i have in the freezer. 
+
 Do not remove the aluminium foil before slicing or you will probably be thinking "what the hell is this?"! The proper way to do it is slicing the chocolate salami when you take it out from the cold and serve/present the slices as they are. When someone chooses to eat 1 slice, that is when the aluminium foil should be removed before eating the slice.  
 
 ## Author
