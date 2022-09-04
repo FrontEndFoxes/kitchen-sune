@@ -11,16 +11,23 @@ This is a very easy recipe that can be done without major tools and does not nee
 ## Ingredients
 
 1 egg
+
 100g chocolate / cocoa powder - choose according to preference of sweetness
+
 100g sugar - i prefer using sugar powder but the original recipe uses normal plain sugar 
+
 100g butter at room temperature 
+
 200g Maria biscuits 
 
 ## Tools
 
 A bowl/bag
+
 A big mixing bowl 
+
 A tool/spatula you feel confortable using to mix all the ingredients. If you don't want to feel your arm's muscles too much the next day you can use en electric mixer
+
 Aluminium foil 
 
 ## Method
