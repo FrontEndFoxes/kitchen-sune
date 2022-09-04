@@ -74,6 +74,7 @@ module.exports = {
             'coconut-fish',
             'codfish-pastel',
 			'beef-wet-fry'
+						'Chocolate Salami'
 
 					],
 				},
