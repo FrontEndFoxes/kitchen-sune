@@ -73,7 +73,9 @@ module.exports = {
 						'turkish-menemen',
             'coconut-fish',
             'codfish-pastel',
-			'beef-wet-fry'
+						'beef-wet-fry',
+						'chocolate-salami',
+            'turkish-kofte'
 
 					],
 				},

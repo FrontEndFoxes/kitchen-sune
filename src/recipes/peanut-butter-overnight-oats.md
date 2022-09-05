@@ -11,27 +11,19 @@ This is an easy, cheap, and delicious make-ahead recipe - you won't have any exc
 
 ## Ingredients
 
-1/2 cup almond milk
-
-1/2 Tbsp chia seeds
-
-1 Tbsp flaxseed meal
-
-1/2 Tbsp maple syrup
-
-1 Tbsp peanut butter
-
-1/2 cup old-fashioned rolled oats
-
-1 tsp cinnamon
-
-optional toppings
+- 1/2 cup almond milk
+- 1/2 Tbsp chia seeds
+- 1 Tbsp flaxseed meal
+- 1/2 Tbsp maple syrup
+- 1 Tbsp peanut butter
+- 1/2 cup old-fashioned rolled oats
+- 1 tsp cinnamon
+- optional toppings
 
 ## Tools
 
-Bowl
-
-Spoon
+- Bowl
+- Spoon
 
 ## Method
 

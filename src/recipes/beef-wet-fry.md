@@ -10,6 +10,7 @@ title: "Beef Wet Fry"
 This is a nice recipe taught by my mother that can be enjoyed with a lot of combinations like rice, Chapati or ugali
 
 ## Ingredients
+
 - 3 kg of meat
 - A little oil just enough to saute the onions
 - 3 big tomatoes
@@ -22,7 +23,6 @@ This is a nice recipe taught by my mother that can be enjoyed with a lot of comb
 - 1/2 a teaspoon of msg (optional)
 - A bit of salt
 - Rosemary
-
 
 ## Tools
 
