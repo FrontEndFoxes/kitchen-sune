@@ -5,7 +5,7 @@ title: "Beef Wet Fry"
 
 <TagLinks />
 
-# Title of recipe
+# Beef Wet Fry
 
 This is a nice recipe taught by my mother that can be enjoyed with a lot of combinations like rice, Chapati or ugali
 
