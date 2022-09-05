@@ -5,7 +5,7 @@ title: "Beef Wet Fry"
 
 <TagLinks />
 
-# Title of recipe
+# Beef Wet Fry
 
 This is a nice recipe taught by my mother that can be enjoyed with a lot of combinations like rice, Chapati or ugali
 
@@ -57,4 +57,5 @@ If you feel that the meat is still hard after all the water has evaporated you c
 You can always swap out the spices and use the ones you love
 
 ## Author
+
 Beryl Odoyo
