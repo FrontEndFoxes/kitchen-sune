@@ -1,5 +1,5 @@
 ---
-tags: ["breakfast"]
+tags: ["breakfast", "Turkey"]
 title: "Menemen"
 ---
 
@@ -12,24 +12,17 @@ I love eating menemen at the breakfast. It is easy to cook and so yummy. You can
 ## Ingredients 
 
 - 3 eggs
-
 - 2 tomatoes
-
 - Oil
-
 - 1 Onion
-
 - 2 Green Pepper
-
 - A cup of kashar cheese 
-
 - Salt
 
 
 ## Tools
 
 - pan
-
 - grater for cheese and tomatoes
 
 ## Method

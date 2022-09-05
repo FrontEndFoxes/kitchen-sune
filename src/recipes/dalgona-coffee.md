@@ -11,12 +11,12 @@ Dalgona Coffee is from South Korea and became one of the most trended recipes du
 
 ## Ingredients
 
-1. tablespoon instant coffee
-2. tablespoons hot boiling water
-3. tablespoons sugar
-4. 1.5 cups milk (at room temperature or chilled)
-5. Ice cubes - as required, optional
-6. Cocoa powder - optional
+- tablespoon instant coffee
+- tablespoons hot boiling water
+- tablespoons sugar
+- 1.5 cups milk (at room temperature or chilled)
+- Ice cubes - as required, optional
+- Cocoa powder - optional
 
 ## Tools
 
