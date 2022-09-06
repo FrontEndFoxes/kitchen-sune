@@ -77,6 +77,7 @@ module.exports = {
 						'beef-wet-fry',
 						'chocolate-salami',
             'turkish-kofte'
+			'sweet-rice'
 
 					],
 				},
