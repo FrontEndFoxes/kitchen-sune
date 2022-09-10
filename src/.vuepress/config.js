@@ -72,12 +72,12 @@ module.exports = {
 						'baked-banana-oatmeal',
 						'colombian-pan-de-bono',
 						'turkish-menemen',
-            'coconut-fish',
-            'codfish-pastel',
+						'coconut-fish',
+						'codfish-pastel',
 						'beef-wet-fry',
 						'chocolate-salami',
-            'turkish-kofte'
-
+						'turkish-kofte',
+						'sweet-rice'
 					],
 				},
 			],
