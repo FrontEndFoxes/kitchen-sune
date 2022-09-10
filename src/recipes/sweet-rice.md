@@ -1,5 +1,5 @@
 ---
-tags: ["tag1", "tag2"]
+tags: ["dessert", "Portugal"]
 title: "title of recipe"
 ---
 
@@ -7,11 +7,11 @@ title: "title of recipe"
 
 # Sweet Creamy Rice
 
-Tradicional portuguese sweet, sprinkled with cinnamon, usually cooked by our grandmothers with love
+This is a traditional Portuguese sweet, sprinkled with cinnamon, usually cooked by our grandmothers with love
 
 ## Ingredients
 
-- 1 large cup carolin rice
+- 1 large cup carolina rice
 - 1+1/2 large cup hot water
 - 3/4 large cup sugar
 - 2 lemon peel
