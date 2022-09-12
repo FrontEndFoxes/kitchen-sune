@@ -1,6 +1,6 @@
 ---
-tags: ["tag1", "tag2"]
-title: "title of recipe"
+tags: ["desert", "portugal", "rice"]
+title: "Sweet Creamy Rice"
 ---
 
 <TagLinks />
