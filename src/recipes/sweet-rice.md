@@ -1,6 +1,6 @@
 ---
 tags: ["dessert", "Portugal"]
-title: "title of recipe"
+title: "Sweet Creamy Rice"
 ---
 
 <TagLinks />
