@@ -13,79 +13,82 @@ module.exports = {
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
   ],
+	themeConfig: {
+		repo: '',
+		editLinks: true,
+		lastUpdated: true,
+		nav: [
+			{
+				text: 'Recipes',
+				link: '/recipes/',
+			},
+			{
+				text: 'Index',
+				link: '/tags/',
+			},
+			{
+				text: 'Front-End Foxes',
+				link: 'https://frontendfoxes.school',
+			},
+			{
+				text: 'GitHub',
+				link: 'https://github.com/frontendfoxes/kitchen-sune',
+			},
+		],
+		sidebar: {
+			'/recipes/': [
+				{
+					title: 'Recipes',
+					collapsable: false,
+					children: [
+						'nigerian-puff-puff',
+						'roasted-brussels-sprouts',
+						'argentinian-chimichurri',
+						'nigerian-jollof-rice',
+						'cereal-with-protein-powder',
+						'ukrainian-varenyky',
+						'cranberry-relish',
+						'pandemic-cookies',
+						'orange-braised-pork-chops',
+						'sweet-potato-lentil-curry',
+						'nigerian-unripe-plantain-porridge',
+						'strawberry-mush',
+						'jalebi-baby',
+						'dalgona-coffee',
+						'maple-syrup-candy',
+						'gluten-free-chocolate-cupcakes',
+						'chocolate-peanutbutter-pie',
+						'nigerian-bean-pudding-moin-moin',
+						'healthy-granola',
+						'pb-banana-milkshake',
+						'nigerian-oha-soup',
+						'nigeria-okro-soup',
+						'brazilian-chicken-strogonoff',
+						'hungarian-nokedli-dumplings',
+						'holdacska-little-moon-biscuit',
+						'nutella-cookies',
+						'peanut-butter-overnight-oats',
+						'baked-banana-oatmeal',
+						'colombian-pan-de-bono',
+						'turkish-menemen',
+						'coconut-fish',
+						'codfish-pastel',
+						'beef-wet-fry',
+						'chocolate-salami',
+						'turkish-kofte',
+						'sweet-rice',
+						'nigerian-melon-soup',
+						'vegan-chocolate-mousse',
+            'lebanese-tabbouleh'
+            
+					],
+				},
+			],
+		},
+	},
 
-  themeConfig: {
-    repo: "",
-    editLinks: true,
-    lastUpdated: true,
-    nav: [
-      {
-        text: "Recipes",
-        link: "/recipes/",
-      },
-      {
-        text: "Index",
-        link: "/tags/",
-      },
-      {
-        text: "Front-End Foxes",
-        link: "https://frontendfoxes.school",
-      },
-      {
-        text: "GitHub",
-        link: "https://github.com/frontendfoxes/kitchen-sune",
-      },
-    ],
-    sidebar: {
-      "/recipes/": [
-        {
-          title: "Recipes",
-          collapsable: false,
-          children: [
-            "lebanese-tabbouleh",
-            "nigerian-puff-puff",
-            "roasted-brussels-sprouts",
-            "argentinian-chimichurri",
-            "nigerian-jollof-rice",
-            "cereal-with-protein-powder",
-            "ukrainian-varenyky",
-            "cranberry-relish",
-            "pandemic-cookies",
-            "orange-braised-pork-chops",
-            "sweet-potato-lentil-curry",
-            "nigerian-unripe-plantain-porridge",
-            "strawberry-mush",
-            "jalebi-baby",
-            "dalgona-coffee",
-            "maple-syrup-candy",
-            "gluten-free-chocolate-cupcakes",
-            "chocolate-peanutbutter-pie",
-            "nigerian-bean-pudding-moin-moin",
-            "healthy-granola",
-            "pb-banana-milkshake",
-            "nigerian-oha-soup",
-            "nigeria-okro-soup",
-            "brazilian-chicken-strogonoff",
-            "hungarian-nokedli-dumplings",
-            "holdacska-little-moon-biscuit",
-            "nutella-cookies",
-            "peanut-butter-overnight-oats",
-            "baked-banana-oatmeal",
-            "colombian-pan-de-bono",
-            "turkish-menemen",
-            "coconut-fish",
-            "codfish-pastel",
-            "beef-wet-fry",
-            "chocolate-salami",
-            "turkish-kofte",
-          ],
-        },
-      ],
-    },
-  },
-
-  /**
-   * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
-   */
-  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+	/**
+	 * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
+	 */
+	plugins: ['@vuepress/plugin-back-to-top', '@vuepress/plugin-medium-zoom'],
 };
