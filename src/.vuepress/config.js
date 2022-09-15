@@ -79,7 +79,7 @@ module.exports = {
 						'sweet-rice',
 						'nigerian-melon-soup',
 						'vegan-chocolate-mousse',
-            'lebanese-tabbouleh'
+            			'lebanese-tabbouleh'
             
 					],
 				},
