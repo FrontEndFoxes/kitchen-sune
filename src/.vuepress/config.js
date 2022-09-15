@@ -78,7 +78,7 @@ module.exports = {
 						'chocolate-salami',
 						'turkish-kofte',
 						'sweet-rice',
-						'melon-soup'
+						'nigerian-melon-soup'
 					],
 				},
 			],

@@ -1,5 +1,5 @@
 ---
-tags: ["Melon soup", "Nigeria soup"]
+tags: ["Soup", "Nigeria"]
 title: "Nigerian spicy melon soup"
 ---
 
