@@ -1,5 +1,5 @@
 ---
-tags: ["Kenya", "Beef wet fry"]
+tags: ["Kenya", "Dinner"]
 title: "Beef Wet Fry"
 ---
 

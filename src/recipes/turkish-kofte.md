@@ -1,5 +1,5 @@
 ---
-tags: ["dinner", "lunch", "Turkey"]
+tags: ["Dinner", "Lunch", "Turkey"]
 title: "Turkish Kofte"
 ---
 <TagLinks />

@@ -1,5 +1,5 @@
 ---
-tags: ["dinner", "Ukraine"]
+tags: ["Dinner", "Ukraine"]
 title: "Ukrainian Verenyky"
 ---
 

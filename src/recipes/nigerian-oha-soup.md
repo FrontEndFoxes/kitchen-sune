@@ -1,5 +1,5 @@
 ---
-tags: ["soup", "Nigeria"]
+tags: ["Dinner", "Nigeria"]
 title: "Oha Soup"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: ["beverage", "Korea"]
+tags: ["Beverage", "Korea"]
 title: "Dalgona Coffee"
 ---
 

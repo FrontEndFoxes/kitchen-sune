@@ -1,5 +1,5 @@
 ---
-tags: ["breakfast"]
+tags: ["Breakfast"]
 title: "Cereal with Protein Powder"
 ---
 

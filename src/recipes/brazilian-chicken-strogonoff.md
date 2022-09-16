@@ -1,5 +1,5 @@
 ---
-tags: ["Brazilian", "Chicken"]
+tags: ["Brazilian", "Dinner"]
 title: "Brazilian Chicken Strogonoff"
 ---
 

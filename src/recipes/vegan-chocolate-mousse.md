@@ -1,5 +1,5 @@
 ---
-tags: ["chocolate", "dairyfree", "vegan", "dessert"]
+tags: ["Dessert"]
 title: "Vegan Chocolate Mousse"
 ---
 

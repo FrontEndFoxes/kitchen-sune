@@ -1,5 +1,5 @@
 ---
-tags: ["lebanese", "salad"]
+tags: ["Lebanon", "Salad"]
 title: "Lebanese Tabbouleh"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: ["dinner"]
+tags: ["Dinner", "Nigeria"]
 title: "Okro Soup"
 ---
 

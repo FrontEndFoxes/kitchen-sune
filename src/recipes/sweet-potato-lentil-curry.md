@@ -1,5 +1,5 @@
 ---
-tags: ["dinner"]
+tags: ["Dinner"]
 title: "Sweet Potato and Red Lentil Curry"
 ---
 

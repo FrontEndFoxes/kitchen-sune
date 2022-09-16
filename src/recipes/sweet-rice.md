@@ -1,5 +1,5 @@
 ---
-tags: ["dessert", "Portugal"]
+tags: ["Dessert", "Portugal"]
 title: "Sweet Creamy Rice"
 ---
 

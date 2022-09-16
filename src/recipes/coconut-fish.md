@@ -1,5 +1,5 @@
 ---
-tags: ["Kenyan", "Dinner", "Lunch"]
+tags: ["Kenya", "Dinner", "Lunch"]
 title: "Coconut Fish"
 ---
 <TagLinks />

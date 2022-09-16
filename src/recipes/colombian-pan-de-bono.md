@@ -1,5 +1,5 @@
 ---
-tags: ["Colombian", "snack", "baking"]
+tags: ["Colombia", "Snack"]
 title: "Colombian Pan de Bono"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: ["snack"]
+tags: ["Beverage"]
 title: "Peanut Butter & Banana Milkshake"
 ---
 

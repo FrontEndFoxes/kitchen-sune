@@ -1,5 +1,5 @@
 ---
-tags: ["fish", "lunch"]
+tags: ["Lunch", "Portugal"]
 title: "Codfish cake - Pastel de Bacalhau 🐟"
 ---
 

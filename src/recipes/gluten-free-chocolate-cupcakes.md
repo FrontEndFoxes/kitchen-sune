@@ -1,5 +1,5 @@
 ---
-tags: ["dessert","gluten free"]
+tags: ["Dessert"]
 title: "Gluten Free Chocolate Cupcakes"
 ---
 

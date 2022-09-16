@@ -1,5 +1,5 @@
 ---
-tags: ["dinner"]
+tags: ["Dinner"]
 title: "Orange Braised Pork Chops"
 ---
 

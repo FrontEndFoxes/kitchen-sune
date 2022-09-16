@@ -1,5 +1,5 @@
 ---
-tags: ["breakfast", "Turkey"]
+tags: ["Breakfast", "Turkey"]
 title: "Menemen"
 ---
 
