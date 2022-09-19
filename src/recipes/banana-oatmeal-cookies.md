@@ -1,7 +1,7 @@
 
 ---
-tags: ["tag1", "tag2"]
-title: "title of recipe"
+tags: ["2 Ingredient", "cookies"]
+title: "banana oatmeal cookies"
 ---
 
 <TagLinks />
