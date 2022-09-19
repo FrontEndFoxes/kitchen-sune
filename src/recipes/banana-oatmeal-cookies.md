@@ -8,7 +8,7 @@ title: "banana oatmeal cookies"
 
 # banana oatmeal cookies
 
-https://kirbiecravings.com/2-ingredient-banana-oatmeal-cookies/
+This recipe was copied from https://kirbiecravings.com/2-ingredient-banana-oatmeal-cookies/
 
 ## Ingredients
 
