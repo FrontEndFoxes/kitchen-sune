@@ -94,7 +94,7 @@ module.exports = {
 						{
 							title: 'Everything Else',
 							children:[
-								'ceviche with shrimp',
+								'ceviche-with-shrimp',
 								'nigerian-puff-puff',
 								'roasted-brussels-sprouts',
 								'argentinian-chimichurri',
