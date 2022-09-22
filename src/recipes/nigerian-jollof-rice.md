@@ -1,5 +1,5 @@
 ---
-tags: ["dinner", "Nigeria"]
+tags: ["Dinner", "Nigeria"]
 title: "Nigerian Jollof Rice"
 ---
 

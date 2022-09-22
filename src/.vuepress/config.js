@@ -1,19 +1,18 @@
-const { description } = require('../../package');
+const { description } = require("../../package");
 
 module.exports = {
-	base: '/kitchen-sune/',
-	title: 'Front-End Foxes Community Recipe Book',
-	description: description,
+  base: "/kitchen-sune/",
+  title: "Front-End Foxes Community Recipe Book",
+  description: description,
 
-	head: [
-		['meta', { name: 'theme-color', content: '#3eaf7c' }],
-		['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-		[
-			'meta',
-			{ name: 'apple-mobile-web-app-status-bar-style', content: 'black' },
-		],
-	],
-
+  head: [
+    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
+    ],
+  ],
 	themeConfig: {
 		repo: '',
 		editLinks: true,
@@ -22,10 +21,6 @@ module.exports = {
 			{
 				text: 'Recipes',
 				link: '/recipes/',
-			},
-			{
-				text: 'Index',
-				link: '/tags/',
 			},
 			{
 				text: 'Front-End Foxes',
@@ -39,38 +34,79 @@ module.exports = {
 		sidebar: {
 			'/recipes/': [
 				{
+					
 					title: 'Recipes',
 					collapsable: false,
 					children: [
-						'ceviche with shrimp',
-						'nigerian-puff-puff',
-						'roasted-brussels-sprouts',
-						'argentinian-chimichurri',
-						'nigerian-jollof-rice',
-						'cereal-with-protein-powder',
-						'ukrainian-varenyky',
-						'cranberry-relish',
-						'pandemic-cookies',
-						'orange-braised-pork-chops',
-						'sweet-potato-lentil-curry',
-						'nigerian-unripe-plantain-porridge',
-						'strawberry-mush',
-						'jalebi-baby',
-						'dalgona-coffee',
-						'maple-syrup-candy',
-						'gluten-free-chocolate-cupcakes',
-						'chocolate-peanutbutter-pie',
-						'nigerian-bean-pudding-moin-moin',
-						'healthy-granola',
-						'pb-banana-milkshake',
-						'nigerian-oha-soup',
-						'nigeria-okro-soup',
-						'brazilian-chicken-strogonoff',
-						'hungarian-nokedli-dumplings',
-						'holdacska-little-moon-biscuit',
-						'nutella-cookies',
-						'peanut-butter-overnight-oats'
+						{
+							title: 'Breakfast',
+							children:[
+								'peanut-butter-overnight-oats',
+								'baked-banana-oatmeal',
+								'cereal-with-protein-powder',
+								'healthy-granola',
+								'turkish-menemen'
 						
+							]
+						},
+						{
+							title: 'Soups & Salads',
+							children:[
+								'nigerian-unripe-plantain-porridge',
+								'nigerian-oha-soup',
+								'nigeria-okro-soup',
+								'nigerian-melon-soup',
+								'lebanese-tabbouleh'
+							]
+						},
+
+						{
+							title: 'Entrees',
+							children:[
+								'nigerian-jollof-rice',
+								'ukrainian-varenyky',
+								'orange-braised-pork-chops',
+								'sweet-potato-lentil-curry',
+								'nigerian-bean-pudding-moin-moin',
+								'brazilian-chicken-strogonoff',
+								'hungarian-nokedli-dumplings',
+								'coconut-fish',
+								'codfish-pastel',
+								'beef-wet-fry',
+								'turkish-kofte',
+							]
+						},
+						{
+							title: 'Desserts',
+							children:[
+								'pandemic-cookies',
+								'strawberry-mush',
+								'maple-syrup-candy',
+								'gluten-free-chocolate-cupcakes',
+								'chocolate-peanutbutter-pie',
+								'holdacska-little-moon-biscuit',
+								'nutella-cookies',
+								'chocolate-salami',
+								'vegan-chocolate-mousse',
+								'sweet-rice',
+							]
+						},
+						{
+							title: 'Everything Else',
+							children:[
+								'ceviche with shrimp',
+								'nigerian-puff-puff',
+								'roasted-brussels-sprouts',
+								'argentinian-chimichurri',
+								'cranberry-relish',
+								'jalebi-baby',
+								'dalgona-coffee',
+								'pb-banana-milkshake',
+								'colombian-pan-de-bono',
+						
+							]
+						},
+           
 					],
 				},
 			],

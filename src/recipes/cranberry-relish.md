@@ -1,5 +1,5 @@
 ---
-tags: ["condiment"]
+tags: ["Condiment"]
 title: "Maple Walnut Cranberry Relish"
 ---
 

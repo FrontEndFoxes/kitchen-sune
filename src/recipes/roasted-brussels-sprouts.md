@@ -1,5 +1,5 @@
 ---
-tags: ["vegetable", "dinner"]
+tags: ["Dinner"]
 title: "Roasted Brussels Sprouts"
 ---
 

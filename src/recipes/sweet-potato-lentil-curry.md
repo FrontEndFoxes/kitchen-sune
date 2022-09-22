@@ -1,5 +1,5 @@
 ---
-tags: ["dinner"]
+tags: ["Dinner"]
 title: "Sweet Potato and Red Lentil Curry"
 ---
 
@@ -11,27 +11,27 @@ This curry is one of my absolute favorites for the cold season! It serves 3 peop
 
 ## Ingredients
 
-* 450 grams sweet potatoes
-* 1 big red bell pepper
-* 200 grams pre-soaked red lentils (or soak them overnight beforehand)
-* 2 medium-sized onions
-* 2 garlic cloves
-* 1 tablespoon olive oil
-* 500 milliliters of coconut milk
-* 250 milliliters of vegetable broth
-* 2 tablespoons tomato puree (concentrated)
-* 2 tablespoons of curry powder
-* 2 tablespoons of turmeric powder
-* 1 tablespoon of garam masala spice mix 
-* salt and pepper, to taste
+- 450 grams sweet potatoes
+- 1 big red bell pepper
+- 200 grams pre-soaked red lentils (or soak them overnight beforehand)
+- 2 medium-sized onions
+- 2 garlic cloves
+- 1 tablespoon olive oil
+- 500 milliliters of coconut milk
+- 250 milliliters of vegetable broth
+- 2 tablespoons tomato puree (concentrated)
+- 2 tablespoons of curry powder
+- 2 tablespoons of turmeric powder
+- 1 tablespoon of garam masala spice mix 
+- salt and pepper, to taste
 
 ## Tools
 
-* cutting board
-* knives
-* potato peeler (or a peeling knife)
-* a big pot
-* a ladle
+- cutting board
+- knives
+- potato peeler (or a peeling knife)
+- a big pot
+- a ladle
 
 ## Method
 
@@ -53,4 +53,4 @@ This recipe tastes even better the next day, and is also freezer-friendly.
 
 ## Author
 
-By Andrea Busse
+Andrea Busse

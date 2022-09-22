@@ -1,5 +1,5 @@
 ---
-tags: ["Argentina", "condiment"]
+tags: ["Argentina", "Condiment"]
 title: "Argentinian Chimichurri"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: ["dessert"]
+tags: ["Dessert", "Hungary"]
 title: "Holdacska Little Moon Biscuits"
 ---
 

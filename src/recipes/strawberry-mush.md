@@ -1,5 +1,5 @@
 ---
-tags: ["dessert"]
+tags: ["Dessert"]
 title: "Strawberry Mush"
 ---
 

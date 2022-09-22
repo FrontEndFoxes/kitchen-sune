@@ -1,5 +1,5 @@
 ---
-tags: ["Dinner"]
+tags: ["Dinner", "Hungary"]
 title: "Hungarian Nokedli Dumplings"
 ---
 

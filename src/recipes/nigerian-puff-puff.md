@@ -1,5 +1,5 @@
 ---
-tags: ["snack", "Nigeria"]
+tags: ["Snack", "Nigeria"]
 title: "Nigerian Puff Puff"
 ---
 

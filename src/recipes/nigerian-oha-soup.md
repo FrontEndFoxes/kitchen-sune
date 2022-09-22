@@ -1,5 +1,5 @@
 ---
-tags: ["soup", "Nigeria"]
+tags: ["Dinner", "Nigeria"]
 title: "Oha Soup"
 ---
 
@@ -10,7 +10,7 @@ title: "Oha Soup"
 Oha or Ora is mostly known in south eastern part of a Nigeria, A traditional soup eaten in most Igbo homes. The main ingredient is the leaves that makes it unique.
 
 ## Ingredients
-```
+
 - 1-2 bunch  of oha leaves depending on family size.
 - half a bunch oziza leaves
 - Red meat or chicken.
@@ -20,7 +20,7 @@ Oha or Ora is mostly known in south eastern part of a Nigeria, A traditional sou
 - Seasoning of your choice.
 - cocoyam or powdered cocoyam.
 - pepper (a must for me😉 )fresh or dried, yellow pepper.
-```
+
 
 ## Tools
 - Cooking pot 

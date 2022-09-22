@@ -1,5 +1,5 @@
 ---
-tags: ["breakfast"]
+tags: ["Breakfast"]
 title: "Cereal with Protein Powder"
 ---
 
@@ -7,7 +7,7 @@ title: "Cereal with Protein Powder"
 
 # Cereal with Protein Powder
 
-what I enjoy eating mostly every day
+What I enjoy eating mostly every day
 
 ## Ingredients
 

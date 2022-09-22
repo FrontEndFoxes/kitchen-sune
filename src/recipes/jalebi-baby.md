@@ -1,5 +1,5 @@
 ---
-tags: ["India", "dessert"]
+tags: ["India", "Dessert"]
 title: "Jalebi Baby"
 ---
 

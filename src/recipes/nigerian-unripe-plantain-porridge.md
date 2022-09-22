@@ -1,5 +1,5 @@
 ---
-tags: ["dinner", "soup", "Nigeria"]
+tags: ["Dinner", "Nigeria"]
 title: "Nigerian Unripe Plantain Porridge"
 ---
 

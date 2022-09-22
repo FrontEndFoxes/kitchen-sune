@@ -1,5 +1,5 @@
 ---
-tags: ["dinner"]
+tags: ["Dinner", "Nigeria"]
 title: "Okro Soup"
 ---
 
@@ -9,7 +9,7 @@ Okro is popularly known in the south-west part of Nigeria as obe ila by the yoru
 
 
 ##  Ingredients
-```
+
 - A bowl of okro pods
 - Fishes (dry fish, crayfish, fresh fish) 
 - 2 snails
@@ -18,9 +18,10 @@ Okro is popularly known in the south-west part of Nigeria as obe ila by the yoru
 - palm oil
 - locust beans(iru)
 - seasoning cube(maggi) and salt
-```
+
 
 ## Tools
+
 - Cooking pot
 - Stainles steel grater
 - Knife
