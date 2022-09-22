@@ -42,6 +42,7 @@ module.exports = {
 					title: 'Recipes',
 					collapsable: false,
 					children: [
+						'ceviche with shrimp',
 						'nigerian-puff-puff',
 						'roasted-brussels-sprouts',
 						'argentinian-chimichurri',
