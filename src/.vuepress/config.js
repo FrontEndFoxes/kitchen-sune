@@ -38,6 +38,14 @@ module.exports = {
 					title: 'Recipes',
 					collapsable: false,
 					children: [
+						children: [
+			{
+				title: 'Breakfast',
+					children:[
+						'peanut-butter-overnight-oats',
+								...
+							]
+						},
 						{
 							title: 'Breakfast',
 							children:[
