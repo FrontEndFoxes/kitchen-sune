@@ -1,12 +1,12 @@
 
 ---
-tags: ["2 Ingredient", "cookies"]
-title: "banana oatmeal cookies"
+tags: ["Dessert"]
+title: "Banana Oatmeal Cookies"
 ---
 
 <TagLinks />
 
-# banana oatmeal cookies
+# Banana Oatmeal Cookies
 
 This recipe was copied from https://kirbiecravings.com/2-ingredient-banana-oatmeal-cookies/
 
