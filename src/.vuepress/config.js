@@ -90,6 +90,8 @@ module.exports = {
 								'vegan-chocolate-mousse',
 								'sweet-rice',
 								'banana-oatmeal-cookies',
+								'apple-cake',
+
 							]
 						},
 						{
