@@ -1,5 +1,5 @@
 ---
-tags: ["Breads", "Desserts"]
+tags: ["Desserts"]
 title: "Zucchini Bread"
 ---
 
@@ -52,4 +52,4 @@ Remove from the oven and let it cool completely before slicing.
 
 - You can top with turbinado sugar or extra chocolate chips!
 
-## PD
+## Pascalle D
