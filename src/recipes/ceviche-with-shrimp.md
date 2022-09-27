@@ -1,5 +1,5 @@
 ---
-tags: [side dish]
+tags: [Dinner]
 title: "Ceviche With Shrimp"
 ---
 
@@ -9,14 +9,13 @@ Ceviche is one of my favorite dishes that I enjoyed when I started my no red mea
 
 ## Ingredients
 
-1 bag of cooked Shrimp
-1 Jalpeno Pepper
-1 Tomato
-1/2 purple onion
-1/2 bunch of cilantro
-6 limes
-Tortilla Chips
-
+<li>1 bag of cooked Shrimp</li>
+<li>1 Jalpeno Pepper</li>
+<li>1 Tomato</li>
+<li>1/2 purple onion</li>
+<li>1/2 bunch of cilantro</li>
+<li>6 limes</li>
+<li>Tortilla Chips</li>
 
 ## Tools
 
@@ -26,7 +25,7 @@ list of tools
 
 ## Method
 
-Cut up the tomatoe, purple onion, jalpeno pepper, cilantro
+Cut up the tomato, purple onion, jalpeno pepper, cilantro
 Add Ingredients to Bowl
 Peel shrimp tail off.
 Cut each lime in half and squeeze juice into bowl
