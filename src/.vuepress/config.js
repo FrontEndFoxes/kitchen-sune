@@ -74,6 +74,7 @@ module.exports = {
 								'codfish-pastel',
 								'beef-wet-fry',
 								'turkish-kofte',
+								'ceviche-with-shrimp'
 							]
 						},
 						{
@@ -99,7 +100,6 @@ module.exports = {
 						{
 							title: 'Everything Else',
 							children:[
-								'ceviche-with-shrimp',
 								'nigerian-puff-puff',
 								'roasted-brussels-sprouts',
 								'argentinian-chimichurri',

@@ -1,40 +1,46 @@
 ---
-tags: [Dinner]
+tags: ["Dinner"]
 title: "Ceviche With Shrimp"
 ---
 
+<TagLinks />
+
 # Ceviche With Shrimp
 
-Ceviche is one of my favorite dishes that I enjoyed when I started my no red meat diet. I first tried Ceviche when my bestfriend brought it to work for Lunch. I loved it so much that I learned how to make it on my own.
+Ceviche is one of my favorite dishes that I enjoyed when I started my no red meat diet. I first tried ceviche when my best friend brought it to work for lunch. I loved it so much that I learned how to make it on my own.
 
 ## Ingredients
 
-<li>1 bag of cooked Shrimp</li>
-<li>1 Jalpeno Pepper</li>
-<li>1 Tomato</li>
-<li>1/2 purple onion</li>
-<li>1/2 bunch of cilantro</li>
-<li>6 limes</li>
-<li>Tortilla Chips</li>
+- 1 bag of cooked Shrimp
+- 1 Jalpeno Pepper
+- 1 Tomato
+- 1/2 purple onion
+- 1/2 bunch of cilantro
+- 6 limes
+- Tortilla Chips
 
 ## Tools
 
-Bowl
-juicer
-list of tools
+- bowl
+- juicer
 
 ## Method
 
 Cut up the tomato, purple onion, jalpeno pepper, cilantro
+
 Add Ingredients to Bowl
+
 Peel shrimp tail off.
+
 Cut each lime in half and squeeze juice into bowl
+
 Mix all the ingredients together
+
 Let ceviche sit in fridge to chill
 
 ## Tips
 
-To add a better taste, I also add lemon peper and garlic powder to add seasoning. you can add any kind of totilla chips to the dish.
+To add a better taste, I also add lemon pepper and garlic powder to add seasoning. You can add any kind of totilla chips to the dish.
 
 ## Author
 
