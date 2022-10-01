@@ -1,5 +1,5 @@
 ---
-tags: ["Desserts"]
+tags: ["Dessert"]
 title: "Zucchini Bread"
 ---
 
