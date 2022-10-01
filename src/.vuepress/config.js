@@ -99,6 +99,7 @@ module.exports = {
 						{
 							title: 'Everything Else',
 							children:[
+								'ceviche-with-shrimp',
 								'nigerian-puff-puff',
 								'roasted-brussels-sprouts',
 								'argentinian-chimichurri',
