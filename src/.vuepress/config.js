@@ -91,7 +91,9 @@ module.exports = {
 								'sweet-rice',
 								'banana-oatmeal-cookies',
 								'apple-cake',
+								'zucchini-bread',
 								'brazilian-chocolate-truffle'
+
 							]
 						},
 						{
