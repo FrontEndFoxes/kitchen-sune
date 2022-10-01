@@ -89,8 +89,11 @@ module.exports = {
 								'chocolate-salami',
 								'vegan-chocolate-mousse',
 								'sweet-rice',
+								'banana-oatmeal-cookies',
 								'apple-cake',
 								'zucchini-bread',
+								'brazilian-chocolate-truffle'
+
 							]
 						},
 						{

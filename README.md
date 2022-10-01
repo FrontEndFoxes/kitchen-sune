@@ -69,5 +69,6 @@ children: [
 ```
 
 Use the same name as your file.
-8. Create a PR from your repo to the main branch of this repo
+
+8. Create a PR from your repo to the main branch of this repo.
 9. Once approved, you'll see your recipe live if all is well!
