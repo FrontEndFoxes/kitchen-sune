@@ -45,7 +45,8 @@ module.exports = {
 								'baked-banana-oatmeal',
 								'cereal-with-protein-powder',
 								'healthy-granola',
-								'turkish-menemen'
+								'turkish-menemen',
+								'egg-noodles'
 						
 							]
 						},
