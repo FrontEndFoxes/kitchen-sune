@@ -75,7 +75,8 @@ module.exports = {
 								'codfish-pastel',
 								'beef-wet-fry',
 								'turkish-kofte',
-								'ceviche-with-shrimp'
+								'ceviche-with-shrimp',
+								'paneer-butter-masala'
 							]
 						},
 						{
