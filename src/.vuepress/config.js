@@ -57,7 +57,8 @@ module.exports = {
 								'nigerian-oha-soup',
 								'nigeria-okro-soup',
 								'nigerian-melon-soup',
-								'lebanese-tabbouleh'
+								'lebanese-tabbouleh',
+								'Healthy-salad-with-baked-goat-cheese'
 							]
 						},
 
