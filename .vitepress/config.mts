@@ -37,6 +37,7 @@ export default defineConfig({
 								{ text: 'Nigerian Melon Soup', link: '/recipes/nigerian-melon-soup' },
 								{ text: 'Lebanese Tabbouleh', link: '/recipes/lebanese-tabbouleh' },
                 { text: 'Nigerian Unripe Plantain Porridge', link: '/recipes/nigerian-unripe-plantain-porridge' },
+                { text: 'Baked Goat Cheese Salad', link: '/recipes/goat-cheese-salad' },
               ]
               },
               {
